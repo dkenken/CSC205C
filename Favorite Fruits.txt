@@ -2,3 +2,6 @@ Mango
 Grapes
 Kiwi
 Apple
+watermelom
+orange
+cherries
